@@ -5,7 +5,7 @@ import time
 username = "matheusdemarcolopes"  
 placar_arquivo = "placar.txt"
 modo_de_jogo = "chess_rapid"  
-intervalo = 60  
+intervalo = 180  
 
 def obter_placar(username, modo):
     """Obtém o placar do Chess.com para o modo especificado."""
